@@ -1,0 +1,12 @@
+{
+    "model": "SVM RBF",
+    "best_params": {
+        "clf__C": 5,
+        "clf__gamma": 0.1
+    },
+    "cv_f1_macro": 0.9445,
+    "test_accuracy": 0.9247,
+    "test_precision_macro": 0.9376,
+    "test_recall_macro": 0.9351,
+    "test_f1_macro": 0.9363
+}
