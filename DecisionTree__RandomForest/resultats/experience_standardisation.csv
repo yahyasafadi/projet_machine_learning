@@ -1,0 +1,5 @@
+Modèle,Standardisation,F1 macro CV (moy.),Écart-type
+Arbre de décision,Non,0.9104,0.0021
+Arbre de décision,Oui,0.9101,0.0028
+Random Forest,Non,0.9358,0.0047
+Random Forest,Oui,0.9354,0.0048
