@@ -1,0 +1,2 @@
+accuracy,precision_macro,rappel_macro,f1_macro,best_metric,best_n_neighbors,best_weights,f1_macro_cv_train
+0.9173705471905986,0.932848831276143,0.9279182186474714,0.930019864876363,euclidean,9,distance,0.9382000639417596
